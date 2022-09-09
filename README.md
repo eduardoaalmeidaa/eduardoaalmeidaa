@@ -1,6 +1,4 @@
-
-
--📚 Estudante de Análise e desenvolvimento de sistemas 
+Olá, Eu sou o Eduardo André ;)
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
