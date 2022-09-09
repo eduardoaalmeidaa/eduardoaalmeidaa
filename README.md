@@ -1,4 +1,4 @@
-Olá, Eu sou o Eduardo André ;)
+Olá, Eu sou o Eduardo André 👨‍💻
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
