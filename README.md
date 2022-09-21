@@ -1,4 +1,4 @@
-## Olá, eu sou o Eduardo, Estudante de Análise e Desenvolvimento de Sistemas  👨‍💻🎓
+## Olá, eu sou o Eduardo, Estudante de Análise e Desenvolvimento de Sistemas, apaixonado pelo mundo da Tecnologia! 👨‍💻🎓
 <div align="center">
   <a href="https://github.com/eduardoaalmeidaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoaalmeidaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
