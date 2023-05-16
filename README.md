@@ -1,4 +1,4 @@
-### Hi, I'm Edward!
+### Hi, I'm Eduardo!
 Systems Analyst and Data Science/Analysis student 👨🏻‍💻☕️
 <div align="center">
   <a href="https://github.com/eduardoaalmeidaa">
