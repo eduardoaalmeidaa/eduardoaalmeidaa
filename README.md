@@ -8,7 +8,7 @@ Full Stack .NET Developer 🚀
 </div>
 <div><br>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,angular,cs,html,css,js,ts,git,aws" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,ts,git,aws" />
   </a>
 </div>
   <br>
