@@ -1,4 +1,3 @@
-### Hi, I'm Eduardo!
 Full Stack .NET Developer 🚀
 
 <div>
