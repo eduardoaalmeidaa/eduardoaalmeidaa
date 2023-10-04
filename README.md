@@ -1,4 +1,4 @@
-### Olá, Eu sou Eduardo!
+### Hi, I'm Eduardo!
 Full Stack .NET Developer 🚀
 
 <div>
