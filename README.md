@@ -1,4 +1,4 @@
-Full Stack .NET Developer 🚀
+Full Stack .NET Developer
 
 <div>
   <a href="https://github.com/eduardoaalmeidaa">
