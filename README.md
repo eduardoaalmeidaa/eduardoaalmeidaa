@@ -6,16 +6,16 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoaalmeidaa&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
-    
+
+<!--  
 <div>
-  <!--<br>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,angular,cs,js,ts,html,css,postman,git" /> 
   </a>
-  </div>
-  <br>
-  -->
 </div>
+<br>
+-->
 
 <div>
   <a href="https://www.linkedin.com/in/eduardoaalmeidaa" target="_blank">
