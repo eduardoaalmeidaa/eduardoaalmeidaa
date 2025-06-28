@@ -1,30 +1,37 @@
-# .NET Developer
+<h1 align="center">🧩 Eduardo A. Almeida</h1>
+<h3 align="center">Software Engineer | .NET | C# | ASP.NET Core | React | Azure</h3>
 
-<div>
-  <a href="https://github.com/eduardoaalmeidaa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoaalmeidaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoaalmeidaa&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Focus.+Build.+Evolve." alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+Desenvolvedor .NET com experiência sólida em aplicações backend, APIs RESTful,
+bancos de dados relacionais e desenvolvimento front-end com React. Buscando
+crescer na área de arquitetura de software, aplicando práticas de Clean Code,
+SOLID e Design Patterns para entregar soluções escaláveis, robustas e de alta
+qualidade.
+
+---
+
+### 📊 Github Analytics
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardoaalmeidaa&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoaalmeidaa&layout=compact&theme=transparent&hide_border=true"/>
 </div>
 
-<!--  
-<div>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,angular,cs,js,ts,html,css,postman,git" /> 
-  </a>
-</div>
-<br>
--->
+---
 
-<div>
-  <a href="https://www.linkedin.com/in/eduardoaalmeidaa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/eduardoaalmeidaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvmZgDSdMDvgjRZHSXVjsZCndlFCwgBRmRVFntScbnHgWhFDwnnSVBpQWtbvdJLsBfMSQq" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+### 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,js,azure,git" />
+</p>
+
+---
