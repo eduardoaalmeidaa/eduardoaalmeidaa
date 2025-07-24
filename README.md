@@ -11,11 +11,7 @@
 
 ### 🚀 Sobre mim
 
-Desenvolvedor .NET com experiência sólida em aplicações backend, APIs RESTful,
-bancos de dados relacionais e desenvolvimento front-end com React. Buscando
-crescer na área de arquitetura de software, aplicando práticas de Clean Code,
-SOLID e Design Patterns para entregar soluções escaláveis, robustas e de alta
-qualidade.
+Desenvolvedor .NET com sólida experiência em aplicações backend, APIs RESTful, bancos de dados relacionais e desenvolvimento front-end com React. Focado em evoluir na área de arquitetura de software, aplicando práticas de Clean Code, princípios SOLID e Design Patterns.
 
 ---
 
