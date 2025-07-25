@@ -1,5 +1,5 @@
 <h1 align="center">🧩 Eduardo A. Almeida</h1>
-<h3 align="center">Software Engineer | .NET | C# | ASP.NET Core | React | Azure</h3>
+<h3 align="center">Software Developer | .NET | C# | ASP.NET Core | React | Azure</h3>
 
 ---
 
