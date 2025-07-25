@@ -9,9 +9,11 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About me
 
-Desenvolvedor .NET com sólida experiência em aplicações backend, APIs RESTful, bancos de dados relacionais e desenvolvimento front-end com React. Focado em evoluir na área de arquitetura de software, aplicando práticas de Clean Code, princípios SOLID e Design Patterns.
+Developer with experience in the logistics and retail sectors, working with ASP.NET Core, React, Visual Basic, and PL/SQL. I have solid expertise in SQL Server and Oracle databases.
+Strongly interested in software architecture and the application of best development practices, focusing on scalable, sustainable, and maintainable solutions.
+I work with agile methodologies such as Scrum and Kanban, contributing to efficient and high-quality deliveries. I am continuously evolving professionally, committed to technical excellence and ongoing improvement.
 
 ---
 
