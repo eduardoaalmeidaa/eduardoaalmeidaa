@@ -1,7 +1,13 @@
 <h1 align="center">🧩 Eduardo A. Almeida</h1>
-<h3 align="center">Software Developer | .NET | C# | ASP.NET Core | React | Azure</h3>
+<h3 align="center">Software Developer | .NET | C# | ASP.NET Core | React </h3>
 
 ---
+
+<p align="center">
+  <a href="https://jade-genie-074473.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Meu%20Portfólio-000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Focus.+Build.+Evolve." alt="Typing SVG" />
@@ -9,11 +15,13 @@
 
 ---
 
-### 🚀 About me
+### 🚀 About Me
 
-Developer with experience in the logistics and retail sectors, working with ASP.NET Core, React, Visual Basic, and PL/SQL. I have solid expertise in SQL Server and Oracle databases.
-Strongly interested in software architecture and the application of best development practices, focusing on scalable, sustainable, and maintainable solutions.
-I work with agile methodologies such as Scrum and Kanban, contributing to efficient and high-quality deliveries. I am continuously evolving professionally, committed to technical excellence and ongoing improvement.
+💻 Developer with experience in the logistics and retail sectors, working with **ASP.NET Core, React, Visual Basic, and PL/SQL**.  
+🗄️ Solid expertise in **SQL Server** and **Oracle databases**.  
+🏗️ Strongly interested in **software architecture** and the application of **best development practices**, focusing on scalable and maintainable solutions.  
+📌 Works with **Scrum** and **Kanban**, contributing to efficient and high-quality deliveries.  
+📈 Continuously evolving professionally, committed to **technical excellence** and **ongoing improvement**.
 
 ---
 
@@ -31,5 +39,3 @@ I work with agile methodologies such as Scrum and Kanban, contributing to effici
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,js,azure,git" />
 </p>
-
----
