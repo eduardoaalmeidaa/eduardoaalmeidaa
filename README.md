@@ -17,11 +17,11 @@
 
 ### 🚀 About Me
 
-💻 Developer with experience in the logistics and retail sectors, working with **ASP.NET Core, React, Visual Basic, and PL/SQL**.  
-🗄️ Solid expertise in **SQL Server** and **Oracle databases**.  
-🏗️ Strongly interested in **software architecture** and the application of **best development practices**, focusing on scalable and maintainable solutions.  
-📌 Works with **Scrum** and **Kanban**, contributing to efficient and high-quality deliveries.  
-📈 Continuously evolving professionally, committed to **technical excellence** and **ongoing improvement**.
+* Developer with experience in the logistics and retail sectors, working with **ASP.NET Core, React, Visual Basic, and PL/SQL**.  
+* Solid expertise in **SQL Server** and **Oracle databases**.  
+* Strongly interested in **software architecture** and the application of **best development practices**, focusing on scalable and maintainable solutions.  
+* Works with **Scrum** and **Kanban**, contributing to efficient and high-quality deliveries.  
+* Continuously evolving professionally, committed to **technical excellence** and **ongoing improvement**.
 
 ---
 
